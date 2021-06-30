@@ -11,8 +11,8 @@ function App() {
       {/* <CounterState /> */}
       {/* <CounterRef /> */}
       {/* <Ticker /> */}
-      <Box />
-      {/* <TickerChart /> */}
+      {/* <Box /> */}
+      <TickerChart />
     </>
   );
 }
