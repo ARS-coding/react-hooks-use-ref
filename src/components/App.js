@@ -8,11 +8,11 @@ import TickerChart from "./TickerChart";
 function App() {
   return (
     <>
-      <CounterState />
-      <CounterRef />
-      <Ticker />
+      {/* <CounterState /> */}
+      {/* <CounterRef /> */}
+      {/* <Ticker /> */}
       <Box />
-      <TickerChart />
+      {/* <TickerChart /> */}
     </>
   );
 }
